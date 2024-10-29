@@ -43,7 +43,6 @@ plt.ylabel('Predicted Prices')
 plt.title('Actual vs Predicted Prices')
 plt.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], color='red')  # diagonal line
 plt.show()
-why this code is not running in VS CODE
 
 
 
